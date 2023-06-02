@@ -1,10 +1,70 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #ddd;
+  background: #222222;
+  color: white;
 }
 
 img {
   display: block;
   max-width: 100%;
+}
+
+header div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 15px 0 15px 0;
+}
+
+header div p {
+  background-color: #f3d255;
+  padding: 6px;
+  color: #222222;
+}
+
+header div img {
+  width: 10%;
+}
+
+hr {
+  text-decoration: none;
+  color: white;
+}
+
+a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px;
+  text-decoration: none;
+  color: #222222;
+}
+
+.purple {
+  background-color: #b194cc;
+  margin: 75px 50px 15px 50px;
+}
+
+.yellow {
+  background-color: #f3d255;
+  margin: 15px 80px 15px 80px;
+}
+
+.blue {
+  background-color: #92e2e4;
+  margin: 15px 100px 120px 100px;
+}
+
+.menu_bar {
+ background: #222222;
+ width: 100%;
+ padding:0;
+ box-sizing: border-box;
+ position: sticky;
+ bottom: 0;
+ display: flex;
+ justify-content: space-between;
+ margin: 0;
+
 }
