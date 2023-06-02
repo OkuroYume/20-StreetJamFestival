@@ -88,3 +88,7 @@ a {
 .container div {
   width: 50%;
 }
+
+.container div h3 {
+  color: #f3d255;
+}
