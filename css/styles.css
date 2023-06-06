@@ -11,9 +11,9 @@ img {
 }
 
 .navbar {
-  background: #222222;
-  padding: 0 5px 0 5px;
-  position:sticky; 
+  background:#222222;
+  padding: 6px;
+  position:sticky;
   top: 0;
   display: flex;
   justify-content: space-between;
@@ -25,18 +25,16 @@ img {
 
 .billet_button {
   background-color: #f5b300;
-  padding: 6px;
+  padding: 10px 8px 0 8px;
   color: #222222;
+  font-family: 'League Spartan', sans-serif;
+  font-weight: bold;
 }
 
 header div {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-}
-
-header a {
-  font-weight: bold;
 }
 
 header img {
@@ -49,13 +47,15 @@ hr {
   max-width: 320px;
 }
 
-a {
+header a {
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 12px;
   text-decoration: none;
   color: #222222;
+  font-family: 'League Spartan', sans-serif;
+  font-weight: bold;
 }
 
 .purple {
@@ -71,11 +71,6 @@ a {
 .blue {
   background-color: #64d6d6;
   margin: 15px 100px 120px 100px;
-}
-
-p, 
-a {
-  font-family: 'League Spartan', sans-serif;
 }
 
 h2{
