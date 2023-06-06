@@ -10,38 +10,43 @@ img {
   max-width: 100%;
 }
 
-.menu_bar {
+.navbar {
   background: #222222;
-  width: 100%;
-  padding:0;
-  box-sizing: border-box;
-  position: sticky;
-  bottom: 0;
+  padding: 0 5px 0 5px;
+  position:sticky; 
+  top: 0;
   display: flex;
   justify-content: space-between;
-  margin: 0;
- }
-
-header div {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  padding: 15px 0 15px 0;
 }
 
-header div a {
+.navbar img {
+  width: 13%;
+}
+
+.billet_button {
   background-color: #f5b300;
   padding: 6px;
   color: #222222;
 }
 
-header div img {
-  width: 10%;
+header div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+header a {
+  font-weight: bold;
+}
+
+header img {
+  padding-top: 80px;
 }
 
 hr {
   text-decoration: none;
   color: white;
+  max-width: 320px;
 }
 
 a {
