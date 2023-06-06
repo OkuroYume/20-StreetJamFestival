@@ -97,13 +97,25 @@ h3 {
 }
 
 .container {
+  width: 75%;
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
 }
 
-.container div {
-  width: 50%;
+.container h3 {
+  font-size: 15px;
 }
+
+.right_card {
+  margin: 20px 10px 20px 50px;
+}
+
+.left_card {
+  margin: 20px 50px 20px 10px;
+}
+
+
+
 
 .container div h3 {
   color: #f5b300;
