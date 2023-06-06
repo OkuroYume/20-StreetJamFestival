@@ -20,7 +20,7 @@ img {
 }
 
 .navbar img {
-  width: 13%;
+  width: 12%;
 }
 
 .billet_button {
@@ -78,6 +78,10 @@ h2{
   font-size: 32px;
 }
 
+p {
+  font-family: 'League Spartan', sans-serif;
+}
+
 .right_tittle {
   color:#9c72ca;
   text-align: end;
@@ -104,6 +108,12 @@ h2{
 
 h3 {
   font-family: 'Climate Crisis', cursive;
+}
+
+.schedule {
+  color: #9c72ca;
+  font-weight: bold;
+  font-size: 19px;
 }
 
 .container .img {
