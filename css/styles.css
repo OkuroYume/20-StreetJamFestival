@@ -82,16 +82,24 @@ p {
   font-family: 'League Spartan', sans-serif;
 }
 
+main img {
+  padding: 20px 0 20px 0;
+}
+
+.food img {
+  padding: 0%;
+}
+
 .right_tittle {
   color:#9c72ca;
   text-align: end;
-  padding: 100px 0 30px 32px;
+  padding: 130px 0 30px 32px;
 }
 
 .left_tittle {
   color:#9c72ca;;
   text-align: start;
-  padding: 100px 32px 30px 0;
+  padding: 130px 32px 30px 0;
 }
 
 .yellow_tittle {
