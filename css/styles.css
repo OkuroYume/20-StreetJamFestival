@@ -3,6 +3,8 @@ body {
   margin: auto;
   background: #222222;
   color: white;
+  background-image: url("/Users/Okuro_Yume/Documents/sites (frontend development)/20-StreetJamFestival/img/background.jpg");
+  background-size: 100%;
 }
 
 img {
@@ -17,6 +19,8 @@ img {
   top: 0;
   display: flex;
   justify-content: space-between;
+  background-image: url("/Users/Okuro_Yume/Documents/sites (frontend development)/20-StreetJamFestival/img/background.jpg");
+  background-size: 100%;
 }
 
 .navbar img {
