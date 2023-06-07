@@ -5,6 +5,7 @@ body {
   color: white;
   background-image: url("/Users/Okuro_Yume/Documents/sites (frontend development)/20-StreetJamFestival/img/background.jpg");
   background-size: 100%;
+  scroll-behavior: smooth;
 }
 
 img {
