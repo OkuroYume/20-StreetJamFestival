@@ -3,8 +3,10 @@ body {
   margin: auto;
   background: #222222;
   color: white;
-  background-image: url("/Users/Okuro_Yume/Documents/sites (frontend development)/20-StreetJamFestival/img/background.jpg");
-  background-size: 100%;
+  background-image:url("/Users/Okuro_Yume/Documents/sites (frontend development)/20-StreetJamFestival/img/background.jpg");
+}
+
+html {
   scroll-behavior: smooth;
 }
 
@@ -109,7 +111,7 @@ main img {
 
 .yellow_tittle {
   color: #f5b300;
-  padding: 90px 0 80px 0;
+  padding: 90px 0 30px 0;
   text-align: end;
 }
 
