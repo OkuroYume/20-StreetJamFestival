@@ -37,6 +37,7 @@ img {
   color: #222222;
   font-family: 'League Spartan', sans-serif;
   font-weight: bold;
+  
 }
 
 header div {
@@ -113,7 +114,7 @@ main img {
 
 .yellow_tittle {
   color: #f5b300;
-  padding: 90px 0 30px 0;
+  padding: 130px 0 30px 0;
   text-align: end;
 }
 
@@ -158,5 +159,21 @@ h3 {
 .container div h3 {
   color: #f5b300;
   font-size: 19px;
+}
+
+.blue_tittle {
+  color: #64d6d6;
+  padding: 130px 0 30px 0;
+}
+
+footer div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 30px 0 30px 0;
+}
+
+footer img {
+  width: 40%;
 }
 
