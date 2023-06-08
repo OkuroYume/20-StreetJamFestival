@@ -88,7 +88,7 @@ h2{
 
 p {
   font-family: 'League Spartan', sans-serif;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 main img {
@@ -102,7 +102,7 @@ main img {
 .right_tittle {
   color:#9c72ca;
   text-align: end;
-  padding: 130px 0 30px 32px;
+  padding: 130px 0 30px 40px;
 }
 
 .left_tittle {
@@ -131,7 +131,7 @@ h3 {
   color: #9c72ca;
   font-weight: bold;
   font-size: 25px;
-  margin-bottom: -10px;
+  margin-bottom: -20px;
 }
 
 .container .img {
@@ -144,7 +144,7 @@ h3 {
 }
 
 .food_intro {
-  padding-bottom: 6s0px;
+  padding-bottom: 60px;
 }
 
 .right_card {
@@ -157,4 +157,6 @@ h3 {
 
 .container div h3 {
   color: #f5b300;
+  font-size: 19px;
 }
+
