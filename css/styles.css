@@ -17,27 +17,17 @@ img {
 }
 
 .navbar {
-  background-color: #222222;
   padding: 6px;
-  position:sticky;
-  top: 0;
   display: flex;
   justify-content: space-between;
-  background-image: url("../img/background.png");
-  background-size: 100%;
 }
 
-.navbar img {
-  width: 12%;
-}
-
-.billet_button {
-  background-color: #f5b300;
-  padding: 10px 8px 0 8px;
+.date {
+  background-color: #cfd316;
+  padding: 5px 8px 5px 8px;
   color: #222222;
   font-family: 'League Spartan', sans-serif;
   font-weight: bold;
-  
 }
 
 header div {
@@ -166,7 +156,7 @@ h3 {
   padding: 130px 0 30px 0;
 }
 
-footer div {
+.medias {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -174,6 +164,10 @@ footer div {
 }
 
 footer img {
-  width: 40%;
+  width: 120px;
 }
 
+.disclaimer {
+  font-weight: lighter;
+  font-size: 17px;
+}
